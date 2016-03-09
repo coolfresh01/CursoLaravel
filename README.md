@@ -1,2 +1,2 @@
-# CursoLaravel
-Curso inicial de Laravel
+# curso
+Curso Inicial de Laravel
